@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Function file Custom Code
+ * Plugin Name:       Custom function file Code
  * Description:       A small and useful plugin for adding and modify pieces of code in the "function.php" file (for themes that use ionCube Loader). Compatible with WPML for Direction change commands.
  * Plugin URI:        https://github.com/mohammad26845/customizing_function_file_plugin
  * Version:           1.0.0
